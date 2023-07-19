@@ -1,4 +1,5 @@
-# Ruby Substate Client.
+# Ruby Substate Client
+
 
 * **Team Name:** UNI-ARTS
 * **Payment Address:** 0xE7188c7e225D473eE9D99108482Af54952d71527 (USDT)
