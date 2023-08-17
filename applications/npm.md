@@ -1,4 +1,4 @@
-# NFT Product Analytics Suite...??
+# NFT Product Analytics Suite.
 
 ---
 
