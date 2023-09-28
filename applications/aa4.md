@@ -1,6 +1,6 @@
 # Shweta Saini Network.
  
-* **Team Name:** Shweta's Team.
+* **Team Name:** Shweta's Team
 * **Payment Address:** 15tV6rQSwNgWQ1Z5pim2yJmELLvWNm5D4V
 
 ## Project Overview :page_facing_up:
